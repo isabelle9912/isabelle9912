@@ -1,6 +1,8 @@
 ### Opa! I am Isabelle 👋  
 I am a Computer Science student, currently developing on the web.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=isabelle9912&theme=material-palenight&hide_border=true&background=161B22&ring=40C463&fire=4CE775&sideNums=5299EA&currStreakNum=5299EA&currStreakLabel=5299EA&sideLabels=1C59B8)](https://git.io/streak-stats)
+
 <!--
 **isabelle9912/isabelle9912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
