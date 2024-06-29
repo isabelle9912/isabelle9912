@@ -13,6 +13,7 @@ I am a Computer Science student, currently developing on the web.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--
--
+- lalalala
+- lalalala
+- lalalalla
 -->
