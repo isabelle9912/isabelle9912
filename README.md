@@ -1,4 +1,4 @@
-### Opaaa! I am Isabelle 👋
+### Opaaaa! I am Isabelle 👋
 
 I am a passionate Computer Science student with a keen interest in web development. I enjoy exploring new technologies and working on exciting projects that challenge me to learn and grow.
 
