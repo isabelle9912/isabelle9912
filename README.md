@@ -14,7 +14,7 @@ I'm currently working on:
 #### 🌱 Learning
 
 I’m actively learning:
-- Java with Spring Boot
+- Java with Springboot
 - Advanced web development techniques.
 
 
