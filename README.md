@@ -9,12 +9,12 @@ I am a passionate Computer Science student with a keen interest in web developme
 #### 🔭 Current Projects
 
 I'm currently working on:
-- Web and desktop applications using modern frameworks like .Net and React.
+- Web and desktop applications using modern frameworks like React Native and ReactJS.
 
 #### 🌱 Learning
 
 I’m actively learning:
-- C# with .Net Multi-Platform App UI
+- Java with Spring Boot
 - Advanced web development techniques.
 
 
