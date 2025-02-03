@@ -2,7 +2,7 @@
 
 I am a passionate Computer Science student with a keen interest in web development. I enjoy exploring new technologies and working on exciting projects that challenge me to learn and grow.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=isabelle9912&theme=dark)](https://git.io/streak-stats)
 ---
 
 #### 🔭 Current Projects
